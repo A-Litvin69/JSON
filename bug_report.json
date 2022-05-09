@@ -1,9 +1,10 @@
 {
 "Bug report":{
-  "Title":"",
-  "Summary":"",
-  "Visual proof":"",
-  "Steps to reproduce":"",
-  "Severity and priority":"",
-  "Actual result":""}
+  "ID":1,
+  "Summary":"The "basket" label is not displayed in the personal account",
+  "Steps to reproduce":"1. Choose a product;
+                        2. Go to your personal account;
+                        3. Click on the "basket" icon",
+  "Severity":"Сritical",
+  "Actual result":"The cart icon should work"}
 }
